@@ -1,0 +1,6 @@
+.container{width:640px;margin:0 auto 0 auto;}
+/* .container img{max-width:100%;} */
+.container:before,.container:after{content:"";display:table;}
+.container:after{clear:both;}
+.container{zoom:1;}
+.clear{clear:both;}
